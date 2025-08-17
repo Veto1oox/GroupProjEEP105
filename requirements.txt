@@ -1,0 +1,8 @@
+streamlit>=1.32
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+openpyxl>=3.1      # if you read .xlsx
+seaborn>=0.13      # if you use it
+statsmodels>=0.14  # only if you call LOWESS
+scipy>=1.11        # only if you compute p-values
