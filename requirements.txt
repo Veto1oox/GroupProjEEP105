@@ -6,3 +6,4 @@ openpyxl>=3.1      # if you read .xlsx
 seaborn>=0.13      # if you use it
 statsmodels>=0.14  # only if you call LOWESS
 scipy>=1.11        # only if you compute p-values
+ipython>=8.0
